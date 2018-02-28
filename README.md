@@ -181,11 +181,11 @@ A correction factor of 0.25 for the left camera and -0.25 for the right camera w
 
 Center image 
 
-![alt text][image8]![alt text][image1]
+![alt text][image8] ![alt text][image1]
 
 Left camera
 
-![alt text][image10]![alt text][image3]
+![alt text][image10] ![alt text][image3]
 
 Right camera
 
