@@ -197,15 +197,15 @@ After the collection process, I had 13824 data points and each point had 3 image
 
 Center image and its flipped version
 
-![alt text][image43]![alt text][image44]
+![alt text][image43] : ![alt text][image44]
 
 Left image and its flipped version
 
-![alt text][image45]![alt text][image46]
+![alt text][image45] : ![alt text][image46]
 
 Right image and its flipped version
 
-![alt text][image47]![alt text][image48]
+![alt text][image47] : ![alt text][image48]
 
 I finally randomly shuffled the dataset and put 20% of the data into a validation set. 
 
