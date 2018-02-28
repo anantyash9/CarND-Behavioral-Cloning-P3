@@ -193,7 +193,7 @@ Right camera
 
 
 
-After the collection process, I had 13824 data points and each point had 3 images (center,left & right). I preprocessed the data by flipping the images and multiplying the associated stearing angle by -1. This not only increased the amount of data we have for traning but also balanced the images so that there was no bias for turning in either direction.
+After the collection process, I had 13824 data points and each point had 3 images (center,left & right). I preprocessed the data by flipping the images and multiplying the associated stearing angle by -1. This not only increased the amount of data we have for traning but also balanced the images so that there was no bias for turning in either direction. Each data point yeilded 6 images to train on so finally the model was trained and validated on on 13,824 * 6 = 82,944 images .
 
 Center image and its flipped version
 
