@@ -219,7 +219,13 @@ The model was successfully able to drive the vehicle on both the first and secon
 
 **video for Track 2 :** [track2_video.mp4]
 
-UPDATE: The performance of the model is highly depended on the hardware capabilities of the system its being tested on. I have added a new file drive_low.py for testing the model on not too powerful machines. I have also recorded the top down video of the model running on aws workspace (windows 10 with graphics)
+UPDATE: The performance of the model is highly depended on the hardware capabilities of the system its being tested on. I have added a new file drive_low.py for testing the model on not too powerful machines.
+This can be used simply by executing.
+```sh
+python drive_low.py model.h5
+```
+
+I have also recorded the top down video of the model running on aws workspace (windows 10 with graphics)
 
 **Topdown prespective for Track 1 :** [topdown_track1.mp4]
 
