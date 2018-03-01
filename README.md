@@ -59,6 +59,8 @@ The goals/steps of this project are the following:
 [image51]: ./examples/Capture3.PNG "track2 forward"
 [track1_video.mp4]:  ./track1_video.mp4
 [track2_video.mp4]:  ./track2_video.mp4
+[topdown_track1.mp4]:  ./topdown_track1.mp4
+[topdown_track2.mp4]:  ./topdown_track2.mp4
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
@@ -216,3 +218,9 @@ The model was successfully able to drive the vehicle on both the first and secon
 **video for Track 1 :** [track1_video.mp4]
 
 **video for Track 2 :** [track2_video.mp4]
+
+UPDATE: The performance of the model is highly depended on the hardware capabilities of the system its being tested on. I have added a new file drive_low.py for testing the model on not too powerful machines. I have also recorded the top down video of the model running on aws workspace (windows 10 with graphics)
+
+**Topdown prespective for Track 1 :** [track1_video.mp4]
+
+**Topdown prespective for Track 2  :** [topdown_track2.mp4]
